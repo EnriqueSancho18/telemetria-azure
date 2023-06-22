@@ -27,15 +27,12 @@ Este proyecto comprende el diseño y configuración del sistema de ingeniería d
 
 El proceso en alto nivel se compone de los siguientes pasos principales:
 
-* Generación de datos con dispositivos Raspberry virtuales.
-* Integración de dispositivos con recursos de Microsoft Azure Cloud.
+1. Generación de datos con dispositivos Raspberry virtuales.
+2. Integración de dispositivos con recursos de Microsoft Azure Cloud.
 * Consulta de datos en streaming.
 * Almacenamiento de datos en un data lake.
 * Procesamiento de datos mediante pipeline.
 * Almacenamiento de datos procesados en base de datos SQL.
-
-#### Prueba
-
 
 ## Configuración de recursos en Microsoft Azure
 * Azure IoT Simulator
