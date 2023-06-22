@@ -27,10 +27,9 @@ Este proyecto comprende el diseño y configuración del sistema de ingeniería d
 
 El proceso en alto nivel se compone de los siguientes pasos principales:
 
-<u> 1. Generación de datos con dispositivos Raspberry virtuales: </u>
+1. Generación de datos con dispositivos Raspberry virtuales:
 
-
-<u>underscored text </u>
+<ins>text</ins>
 
   
 2. Integración de dispositivos con recursos de Microsoft Azure Cloud.
