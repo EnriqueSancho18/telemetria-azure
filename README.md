@@ -30,7 +30,7 @@ El proceso en alto nivel se compone de los siguientes pasos principales:
 <u> 1. Generación de datos con dispositivos Raspberry virtuales: </u>
 
 
-
+<u>underscored text </u>
 
   
 2. Integración de dispositivos con recursos de Microsoft Azure Cloud.
