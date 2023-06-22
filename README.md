@@ -31,6 +31,7 @@ El proceso en alto nivel se compone de los siguientes pasos principales:
 
 
 
+
   
 2. Integración de dispositivos con recursos de Microsoft Azure Cloud.
 3. Consulta de datos en streaming.
