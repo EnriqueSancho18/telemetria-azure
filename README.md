@@ -18,8 +18,9 @@ Este proyecto comprende el diseño y configuración del sistema de ingeniería d
 ### Siglas y términos
 
 ## Proceso general
-* Flujograma
-* Definición del proceso / funcionamiento
+### Flujograma
+
+### Definición del proceso / funcionamiento
 
 ## Configuración de recursos en Microsoft Azure
 * Azure IoT Simulator
