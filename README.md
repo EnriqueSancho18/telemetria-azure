@@ -23,9 +23,13 @@ Este proyecto comprende el diseño y configuración del sistema de ingeniería d
 
 ![alt text](https://github.com/EnriqueSancho18/telemetria-azure/blob/main/images/20230527-M04-S06-Proyecto%20Consolidaci%C3%B3n_v1.1.png?raw=true)
 
-![alt text](https://github.com/EnriqueSancho18/drones-microservice/blob/main/Flujograma_microservicio.png?raw=true)
-
 ### Definición del proceso / funcionamiento
+
+El proceso en alto nivel se compone de los siguientes pasos principales:
+
+* Generación de datos con 3 dispositivos Raspberrys virtuales.
+* Integración de dispositivos con arquitectura cloud.
+
 
 ## Configuración de recursos en Microsoft Azure
 * Azure IoT Simulator
