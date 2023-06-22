@@ -29,10 +29,10 @@ El proceso en alto nivel se compone de los siguientes pasos principales:
 
 1. Generación de datos con dispositivos Raspberry virtuales.
 2. Integración de dispositivos con recursos de Microsoft Azure Cloud.
-* Consulta de datos en streaming.
-* Almacenamiento de datos en un data lake.
-* Procesamiento de datos mediante pipeline.
-* Almacenamiento de datos procesados en base de datos SQL.
+3. Consulta de datos en streaming.
+4. Almacenamiento de datos en un data lake.
+5. Procesamiento de datos mediante pipeline.
+6. Almacenamiento de datos procesados en base de datos SQL.
 
 ## Configuración de recursos en Microsoft Azure
 * Azure IoT Simulator
