@@ -21,7 +21,7 @@ Este proyecto comprende el diseño y configuración del sistema de ingeniería d
 
 ### Flujograma
 
-![alt text]([https://github.com/EnriqueSancho18/drones-microservice/blob/main/Flujograma_microservicio.png](https://github.com/EnriqueSancho18/telemetria-azure/blob/main/images/20230527-M04-S06-Proyecto%20Consolidaci%C3%B3n_v1.1.png)?raw=true)
+![alt text](https://github.com/EnriqueSancho18/telemetria-azure/blob/main/images/20230527-M04-S06-Proyecto%20Consolidaci%C3%B3n_v1.1.png?raw=true)
 
 ![alt text](https://github.com/EnriqueSancho18/drones-microservice/blob/main/Flujograma_microservicio.png?raw=true)
 
