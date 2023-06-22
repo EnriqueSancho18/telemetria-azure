@@ -18,7 +18,11 @@ Este proyecto comprende el diseño y configuración del sistema de ingeniería d
 ### Siglas y términos
 
 ## Proceso general
+
 ### Flujograma
+
+![alt text](https://github.com/EnriqueSancho18/drones-microservice/blob/main/Flujograma_microservicio.png?raw=true)
+![alt text](https://github.com/EnriqueSancho18/drones-microservice/blob/main/Flujograma_microservicio.png?raw=true)
 
 ### Definición del proceso / funcionamiento
 
